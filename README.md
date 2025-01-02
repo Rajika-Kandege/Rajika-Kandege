@@ -53,6 +53,15 @@ Feel free to explore, clone or fork projects, and contribute via issues or PRs. 
   - [LinkedIn](https://www.linkedin.com/in/chalani-rajika/)  
   - [Twitter](https://x.com/Kandege_Rajika)  
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: Automation is like coffee—when done right, it keeps your systems awake and your developers happy! ☕🤖
+
+- 
+- <div align="center">
+  
+  <h3 style="background-color: #FFD700; color: black; padding: 10px; border-radius: 10px;">
+    ⚡ Fun fact: Automation is like coffee—when done right, it keeps your systems awake and your developers happy! ☕🤖✨
+  </h3>
+  
+</div>
+
 
 
