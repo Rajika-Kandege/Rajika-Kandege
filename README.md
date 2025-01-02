@@ -22,6 +22,10 @@ Feel free to explore, clone or fork projects, and contribute via issues or PRs. 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajika-Kandege&theme=radical)
 
+## Profile Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=Rajika-Kandege&theme=radical)
+
+
 
 ## My Programming Languages
 
