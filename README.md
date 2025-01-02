@@ -56,7 +56,9 @@ Feel free to explore, clone or fork projects, and contribute via issues or PRs. 
 - 💬 Ask me about **anything related to Scrum, testing processes, or QA best practices**.
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/chalani-rajika/)  
-  - [Twitter](https://x.com/Kandege_Rajika)  
+  - [Twitter](https://x.com/Kandege_Rajika)
+  - [Youtube](https://www.youtube.com/@Knowledgehub-ph8po)
+  - [Blogger](https://automationseleniumtest123.blogspot.com/2024/01/listeners.html)
 - 😄 Pronouns: **She/Her**
 
 - <div align="center">
