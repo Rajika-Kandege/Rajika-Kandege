@@ -11,7 +11,6 @@ Feel free to explore, clone or fork projects, and contribute via issues or PRs. 
 
 ## 🔍 GitHub Analytics
 
-
 ## 🔥 My Stats
 
 ![Rajika-Kandege's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajika-Kandege&show_icons=true&theme=radical)
