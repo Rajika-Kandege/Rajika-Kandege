@@ -1,6 +1,11 @@
-## Hi there 👋
+<div align="center">
+  
+  ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=Automation+Engineer)](https://git.io/typing-svg)
+ 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=Automation+Engineer;Certified+Scrum+Master)](https://git.io/typing-svg)
+
+</div>
 
 
 # 8+ years of industry experience
