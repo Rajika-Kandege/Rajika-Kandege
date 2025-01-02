@@ -40,7 +40,7 @@ Feel free to explore, clone or fork projects, and contribute via issues or PRs. 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI](https://github.com/Rajika-Kandege/GitHubActionsBeginner/workflows/playwright.yml/badge.svg)
+![CI](https://github.com/Rajika-Kandege/GitHubActionsBeginner/workflows/playwright/badge.svg)
 
 
 ---
