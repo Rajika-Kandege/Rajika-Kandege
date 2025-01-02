@@ -11,19 +11,6 @@ Feel free to explore, clone or fork projects, and contribute via issues or PRs. 
 
 ## 🔍 GitHub Analytics
 
-### My GitHub Statistics
-- **Total Stars:** 38
-- **Total Commits:** 2.4k
-- **Total PRs:** 35
-- **Total Issues:** 8
-- **Contributed to:** 2
-
-### My Programming Languages
-- JavaScript: 31.84%
-- CSS: 24.20%
-- SCSS: 12.58%
-- TypeScript: 6.21%
-- HTML: 10.43%
 
 ## 🔥 My Stats
 
