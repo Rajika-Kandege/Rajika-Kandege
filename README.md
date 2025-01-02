@@ -54,7 +54,6 @@ Feel free to explore, clone or fork projects, and contribute via issues or PRs. 
   - [Twitter](https://x.com/Kandege_Rajika)  
 - 😄 Pronouns: **She/Her**
 
-- 
 - <div align="center">
   
   <h3 style="background-color: #FFD700; color: black; padding: 10px; border-radius: 10px;">
