@@ -18,6 +18,11 @@ Feel free to explore, clone or fork projects, and contribute via issues or PRs. 
 
 ![Rajika-Kandege's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajika-Kandege&show_icons=true&theme=radical)
 
+## Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajika-Kandege&theme=radical)
+
+
 ## My Programming Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajika-Kandege&layout=compact&theme=radical)
